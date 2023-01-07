@@ -6,7 +6,7 @@
 
 /* header sytle */
 header {
-    background-image: url('../images/banner/banner2.png');
+    background-image: url('./images/banner/banner2.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -14,7 +14,7 @@ header {
 .header-content {
    
     text-align: right;
-    margin-left: 900px;
+    margin-left: 800px;
     padding-top: 180px;
     width: 450px;
 }
@@ -112,7 +112,7 @@ section{
     max-width: 95%;
     height: 280px;
     border-radius: 7px;
-    background: linear-gradient(to right,#F15B22, rgb(241, 91, 34,0)), url('../images/watch.png');
+    background: linear-gradient(to right,#F15B22, rgb(241, 91, 34,0)), url('./images/watch.png');
     margin-bottom: 100px;
 }
 .plans-content-bottom-item{
